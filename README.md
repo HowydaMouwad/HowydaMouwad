@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello, I'm Howyda ! 
+## 🚀 Data Science & AI Enthusiast | Computer Science Student
+🎓 **Second-year student at Faculty of Computers & Information, Beni-Suef University.**  
+💡 Passionate about **Data Science, AI, Machine Learning, and Web Scraping**.  
+🔬 Member at **IEEE AI Track** | Volunteer at **YLY** (HR, IT, Team Leader).  
+📌 Learning **Python, SQL, Pandas, Web Scraping, Machine Learning, and more!**  
 
-<!--
-**HowydaMouwad/HowydaMouwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Connect with me:  
+[![LinkedIn](https://www.linkedin.com/in/howyda-mouwad-03a46b213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![GitHub](https://github.com/HowydaMouwad/HowydaMouwad/tree/main)  
 
-Here are some ideas to get you started:
+### ⚡ Skills & Technologies:  
+- 💻 **Programming:** Python, SQL, C++  
+- 📊 **Data Science:** Pandas, NumPy 
+- 🔗 **Web Development:** HTML, CSS, JavaScript, Bootstrap, Firebase  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
