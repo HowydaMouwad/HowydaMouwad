@@ -1,21 +1,20 @@
-# 👋 Hello, I'm Howyda! 
+👋 Hi, I'm Howyda!
+🚀 Data Science & AI Enthusiast | Data Analyst | Computer Science Student
+🎓 Second-year student at the Faculty of Computer Science and Artificial Intelligence, Beni-Suef University.
+💡 Passionate about Data Science, AI, Machine Learning, Web Scraping, and Data Analytics.
+🔬 IEEE AI Track Member | YLY Volunteer (HR, IT, Team Leader).
+📌 Currently learning Python, SQL, Pandas, Web Scraping, Machine Learning, Data Analysis, and more!
 
-## 🚀 Data Science & AI Enthusiast | Computer Science Student
+📫 Connect with me:
 
-🎓 **Second-year student at Faculty of Computers science and Artificial intelligence, Beni-Suef University.**  
-💡 Passionate about **Data Science, AI, Machine Learning, and Web Scraping**.  
-🔬 Member at **IEEE AI Track** | Volunteer at **YLY** (HR, IT, Team Leader).  
-📌 Learning **Python, SQL, Pandas, Web Scraping, Machine Learning, and more!**  
+⚡ Skills & Technologies:
+💻 Programming: Python, SQL, C++
 
-### 📫 Connect with me:  
-[![LinkedIn](https://www.linkedin.com/in/howyda-mouwad-03a46b213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![GitHub](https://github.com/HowydaMouwad)  
+📊 Data Science & Analytics: Pandas, NumPy, Data Visualization (Matplotlib, Seaborn), Exploratory Data Analysis (EDA), Data Cleaning
 
-### ⚡ Skills & Technologies:  
-- 💻 **Programming:** Python, SQL, C++  
-- 📊 **Data Science:** Pandas, NumPy  
-- 🔗 **Web Development:** HTML, CSS, JavaScript, Bootstrap, Firebase  
+🔗 Web Development: HTML, CSS, JavaScript, Bootstrap, Firebase
 
+📈 Machine Learning: Supervised Learning, Unsupervised Learning, Scikit-Learn
 
-  
+🧑‍💻 Tools & Libraries: Jupyter Notebook, Git, Power BI
 
